@@ -2,58 +2,18 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/erkexzcx/lietuviska-tv)](https://goreportcard.com/report/github.com/erkexzcx/lietuviska-tv)
 [![Github All Releases](https://img.shields.io/github/downloads/erkexzcx/lietuviska-tv/total.svg)](https://github.com/erkexzcx/lietuviska-tv/releases)
 
-# Nemokama lietuviška televizija internetu
 
-Ši programa veikia kaip tarpinis serveris tarp IPTV kliento (pvz VLC, Kodi) ir viešai prieinamų ir nemokamų lietuviškų IPTV stream'ų (pvz LNK, TV3).
 
-**Telegram pokalbių kambarys**: https://t.me/lietuviskaIPTV
 
-Palaikomų kanalų sąrašas:
-* BBC World News
-* BTV
-* CTC Baltija
-* Esports
-* Euronews
-* FOX LT
-* Fight sport
-* INFO TV HD
-* Kidzone Plus
-* LNK
-* LNK HD
-* LRT
-* LRT HD
-* LRT Plius
-* LRT Plius HD
-* Lietuvos rytas
-* Lietuvos rytas HD
-* MTV Hits
-* My Hits
-* NBA
-* NTV Mir Baltic LT
-* NatioNAL Geographic
-* Nick Junior
-* Nickelodeon LT
-* Ohota y Ribalka
-* PBK LT
-* Ren TV Baltic LT
-* Setanta Sports
-* Sony
-* Sony Turbo
-* Sport 1
-* TV1
-* TV1000
-* TV1000 Action
-* TV1000 Ruskoje kino
-* TV3
-* TV3 Film
-* TV3 HD
-* TV3 Sport
-* TV3 Sport 2
-* TV6
-* TV8
-* Viasat Explore
-* Viasat History
-* Viasat Nature
+
+
+
+
+
+
+
+
+
 
 # Naudojimas
 
